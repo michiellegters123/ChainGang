@@ -18,6 +18,7 @@ body
 	margin: auto;
 	border: 1px solid black;
 	display: flex;
+	float: left;
 }
 
 .Logo
@@ -80,6 +81,8 @@ body
 	height: 125px;
 	border-top: 1px solid black;
 	margin: auto;
+	float: left;
+
 }
 
 .Footer table
@@ -121,6 +124,7 @@ a.info
 
 .Content
 {
+	margin-top: -16px;
 }
 
 
@@ -220,3 +224,5 @@ a.info
 	line-height: 30px;
 }
 .top-level-menu a:hover { color: #000000; }
+
+
